@@ -26,10 +26,11 @@ Integrated supervised ML (classification) with financial time-series risk analys
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, ROC Curve, VIF, Random Forest, Statistical Risk Metrics.
 
 ##  Repository Structure
-FRA_Project/  
-├── FRA(Part_A).ipynb — Credit Default Prediction  
-├── FRA_Main_Project_Part_B_Guided.ipynb — Market Risk Analysis  
-└── FRA_Project_Report.pdf — Final Business Report  
+FRA_Project/
+├── FRA_Project_Part_A.ipynb   # Credit Default Prediction
+├── FRA_Project_Part_B.ipynb   # Market Risk Analysis
+└── FRA_Project_Report.pdf     # Final Business Report
+  
 
 
 ##  Business Impact
